@@ -1,2 +1,3 @@
 # Noctua
-Sayt hali to'liq tayyor bo'lgani yoq bazi tuzatish ishlari olib borilmoqda 
+Sayt hali to'liq tayyor bo'lgani yoq bazi tuzatish ishlari olib borilmoqda
+Restoranlar uchun moljallangan  loyiha
